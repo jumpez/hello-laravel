@@ -7,7 +7,7 @@
 
 <body>
     <h1>Hello Dashboard</h1>
-    <p>Ini website Laravel pertamaku.</p>
+    <p>halaman dahboard v.2</p>
 </body>
 
 </html>
